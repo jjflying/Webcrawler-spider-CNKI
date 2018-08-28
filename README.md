@@ -1,8 +1,6 @@
 # Web-crawler-of-CNKI
 A web crawler used for collecting the information of papers and their quoted passages in CNKI
 
-#####################################
-
 # 使用说明:
 
 # - 功能:
@@ -12,5 +10,3 @@ A web crawler used for collecting the information of papers and their quoted pas
 # 仅需修改两项参数：
 # article_txt_read 为需要读取的txt文档，文档内容为按行排列的论文标题
 # part_article_out 为最终输出的excel文档
-
-#####################################
